@@ -1,0 +1,5 @@
+Redes de computadoras
+Fundamento de base de datos
+Algebra lineal
+Entornos de desarrollo de programacion
+Diseño de interfaces de usuario

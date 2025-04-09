@@ -1,0 +1,3 @@
+¿Es necesario docker para que funcione kubernetes? no
+¿porque? porque kubernetes y docker estan centrados en diferentes ocpaciones docker scentra mas en construir, enviar y ejecutar contenedores
+mientras que kubernetes se usa para administrar multiples microervicios a gran escala 
